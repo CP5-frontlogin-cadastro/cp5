@@ -27,8 +27,7 @@ Este projeto implementa um sistema de autenticação com React Hook Form e json-
 5. Acesse a aplicação em: `http://localhost:5173`
 
 ## Integrantes do Grupo
-- Nome: [Seu Nome]
-- RM: [Seu RM]
+- Nome: Luiz Gustavo Guedes RM: 565843
 
 ## Estrutura do Projeto
 - `/src/pages/Login.tsx`: Página de login
